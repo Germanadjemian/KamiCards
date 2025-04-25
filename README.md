@@ -20,7 +20,7 @@ Todo con una interfaz vibrante, rápida y con mucho estilo anime 🎌
 
 | Frontend | Backend (opcional) | Base de Datos |
 |----------|--------------------|----------------|
-| HTML5 + CSS3 + JavaScript | Node.js + Express ⚙️ *(opcional)* | MongoDB / Firebase 🔥 |
+|⚙️ *(ANGULAR)* | Java + Spring-Boot ⚙️ | SQL / Postgres 🐘 |
 
 Además podés integrar:
 - 📁 [Cloudinary](https://cloudinary.com/) para subir imágenes.
